@@ -14,7 +14,7 @@ Telegram-tickets-bot - это бот, предназначенный для уп
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone /C:/Users/LILADMIN/Desktop/проекты/Telegram-tickets-bot
+    git clone https://github.com/Nethanter-del/Telegram-tickets-bot.git
     ```
 2. Установите зависимости:
     ```bash
